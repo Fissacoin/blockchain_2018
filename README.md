@@ -3,9 +3,10 @@ Fissacoin integration/staging tree
 
 https://www.fissacoin.com
 
+Copyroght (c) 2009-2018 Novacoin Developers<br/>
 Copyright (c) 2009-2018 Bitcoin Developers<br/>
 Copyright (c) 2011-2018 Litecoin Developers<br/>
-Copyright (c) 2017-2018 Fissacoin Developer (Marco Kreef & Joshua Hiwat)<br/>
+Copyright (c) 2017-2018 Fissacoin Developer (Marco Kreef C++ & Joshua Hiwat PHP:PDO)<br/>
 Copyright (c) 2017-2018 Fissacoin Designer (Carlo Carels)
 
 Fissacoin
