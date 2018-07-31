@@ -32,13 +32,14 @@ information or see http://opensource.org/licenses/MIT.
 What is Fissacoin?
 -------------------
 
-Fissacoin is a cryptocurrency specially created for music events. Imagine, you're at an event and you want to get something to drink. Up till now festival coins didn’t resemble the worth of the drink, which can be annoying. With Fissacoin that is going to change. From this day forward you will buy your drinks at the price that it's worth. Furthermore we’ve added interchangeability so it will be possible to use Fissacoin on every event. Transactions made in Fissacoin are without fees (i.e. transaction costs) and VAT (value added tax)
+It all started with the desire to make paying at an event easier, faster and more secure. Untill now the majority of festivals or events have used plastic coins. In the current digital era such an old-fashioned method is outdated. Our wish was to make it digital. 
 
-Fissacoin is part of Wlove. Wlove is a global operating Dutch producer, concept developer and promoter of international artists and event concepts. Wlove produces international in- and outdoor events such as festivals, stadium shows and world tours. 
+Throughout the exploration of the market we stumbled upon many rules and regulations and a conservative approach towards digital transactions with real fiat money. Then we discovered and studied blockchain technology. We consider blockchain technology as safer and more secure and thanks to a more liberal implementation it's ideal for the event industry.
 
-Wlove-produced events include URBAN MUSIC FESTIVAL (Netherlands and Belgium), SOIXANTE-NEUF (Netherlands, Spain, United Arab Emirates, Suriname and Sweden), LATIN RUSH (Netherlands), HOLIDAY JAM (Netherlands) and the #1 URBAN event FUTURE URBAN LEGENDS during the Amsterdam Dance Event (ADE) (October 17th to the 21st, 2018) These events accommodate over 150,000 fans worldwide every year. 
+At Fissacoin, our mission is to root out hard plastic coins! 
+We are the coolest digital payment system on the planet. We'll setup the greatest global network for party people, with fun and innovative content and experiences. 
 
-Some of the live music concerts Wlove produced or co-produced are from multi-platinum award-winning international artists like Dru Hill, Rick Ross, French Montana, P-Square, Sean Paul, Trey Songz, Miguel, Ciara, Chris Brown, Next, Joe, Jagged Edge, Lloyd, Tyga, Omarion, Pleasure P, Music Soulchild, Dennis Ferrer, Calisway district, Ginuwine, Bow Wow, Jeremih, Salt-n-Pepa, Blackstreet , David Guetta, Steve Angelo, Hippie, Mardi Grass, Elite Moskow, Akon, Ne-Yo and Busta Rhymes.
+At Fissacoin, we get people celebrating. We fuel the even industry conversation. We'll use our reputation not only to make this product work but also to support upcoming events and broaden our network to include a variety of parties as well as a wide range of partners. And of course, developing is at the heart of everything we do. We are the technical insider bringing audiences the safest digital payment service for events
 
 Testing
 -------
